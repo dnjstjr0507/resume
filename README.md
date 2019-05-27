@@ -1,1 +1,1 @@
-<h1>RESUME SAMPLE</h1>
+<h1>RESUME</h1>
